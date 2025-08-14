@@ -1,6 +1,6 @@
 # Hi, I'm Shuo Cao 👋
 
-🎓 Joint PhD student at **USTC & Shanghai AI Lab**, Supervised by **Dr. Yihao Liu** and **Prof. Yu Qiao**  
+🎓 Joint PhD student at **USTC & Shanghai AI Lab**, supervised by **Dr. Yihao Liu** and **Prof. Yu Qiao**  
 
 💻 Research interests:  
 - Multimodal Large Language Models (MLLM) for image understanding  
